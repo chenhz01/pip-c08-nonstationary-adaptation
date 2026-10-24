@@ -1,0 +1,9 @@
+{
+  "id": "L29",
+  "slug": "drift-regime-detector",
+  "name": "换档检测",
+  "cluster": "非平稳适应",
+  "dir": "L29-drift-regime-detector",
+  "loc": 36,
+  "chars": 1132
+}

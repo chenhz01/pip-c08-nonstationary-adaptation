@@ -1,0 +1,9 @@
+{
+  "id": "L30",
+  "slug": "adaptation-rate-governor",
+  "name": "适应速率闸",
+  "cluster": "非平稳适应",
+  "dir": "L30-adaptation-rate-governor",
+  "loc": 34,
+  "chars": 771
+}

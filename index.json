@@ -1,0 +1,38 @@
+[
+  {
+    "id": "L29",
+    "slug": "drift-regime-detector",
+    "name": "换档检测",
+    "cluster": "非平稳适应",
+    "dir": "L29-drift-regime-detector",
+    "loc": 36,
+    "chars": 1132
+  },
+  {
+    "id": "L30",
+    "slug": "adaptation-rate-governor",
+    "name": "适应速率闸",
+    "cluster": "非平稳适应",
+    "dir": "L30-adaptation-rate-governor",
+    "loc": 34,
+    "chars": 771
+  },
+  {
+    "id": "L31",
+    "slug": "frozen-baseline-guard",
+    "name": "冻结基线守卫",
+    "cluster": "非平稳适应",
+    "dir": "L31-frozen-baseline-guard",
+    "loc": 31,
+    "chars": 1037
+  },
+  {
+    "id": "L32",
+    "slug": "meta-search-budget",
+    "name": "元搜索预算",
+    "cluster": "非平稳适应",
+    "dir": "L32-meta-search-budget",
+    "loc": 38,
+    "chars": 1231
+  }
+]
